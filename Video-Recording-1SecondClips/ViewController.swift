@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Video-Recording-Example
 //
-//  Created by Ganvir, Manish on 2/4/17.
+//  Created by Ganvir, Manish on 2/14/17.
 //
 
 import UIKit

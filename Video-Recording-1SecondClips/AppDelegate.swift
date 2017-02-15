@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Video-Recording-1SecondClips
 //
-//  Created by Ganvir, Manish (Contractor) on 2/12/17.
-//  Copyright © 2017 Comcast. All rights reserved.
+//  Created by Ganvir, Manish on 2/14/17.
+
 //
 
 import UIKit
